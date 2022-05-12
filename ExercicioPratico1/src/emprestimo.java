@@ -1,3 +1,5 @@
+package ExercicioPratico1.src;
+
 public class emprestimo {
     public float valor_emprestimo,num_parcelas,taxa,total;
 

@@ -1,3 +1,4 @@
+package ExercicioPratico1.src;
 public class mensagem {
     public void saudacao(int valor){
         if(valor>0 && valor>24){
