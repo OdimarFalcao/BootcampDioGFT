@@ -1,5 +1,5 @@
 package ExercicioPratico1.src;
-
+/*Cálculo de empréstimo bancário*/
 public class emprestimo {
     public float valor_emprestimo,num_parcelas,taxa,total;
 
@@ -15,7 +15,7 @@ public class emprestimo {
             total+= valor_parcela + (taxa*valor_emprestimo/100);
             valor_emprestimo -= valor_parcela;
         }
-        System.out.println(total);
+        System.out.println("O valor total do empréstimo a se pagar é de : "+total);
     }
 
 

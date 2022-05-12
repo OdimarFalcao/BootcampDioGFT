@@ -1,4 +1,5 @@
 package ExercicioPratico1.src;
+/*Programa de saudação a partir da hora do dia*/
 public class mensagem {
     public void saudacao(int valor){
         if(valor>0 && valor>24){

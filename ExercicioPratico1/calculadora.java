@@ -1,5 +1,5 @@
 package ExercicioPratico1.src;
-
+/*Calculadora de operações básicas*/
 public class calculadora {
     float a,b;
     public calculadora(float a, float b) {
