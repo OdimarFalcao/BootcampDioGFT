@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00d45862-4c37-4386-b236-ccfcf6b6719d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ExercicioPratico1/calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicioPratico1/calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercicioPratico1/emprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicioPratico1/emprestimo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercicioPratico1/mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicioPratico1/mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BootcampJavaDio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BootcampJavaDio" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
