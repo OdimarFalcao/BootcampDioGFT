@@ -9,7 +9,7 @@ public class mensagem {
             System.out.println("Bom dia!!");
         }
          else if(valor>12 && valor<18){
-            System.out.println("Bom Tarde!!");
+            System.out.println("Boa Tarde!!");
         } else System.out.println("Boa noite!!");
     }
 
